@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6d6a7c-cc76-48fc-a4b6-fed66b57b998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Practice_StriverSheet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/InversionOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/LongestConsequetiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/LongestSubStringWithoutRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/MergeSubIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/ReversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/InterSectionPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/LinkedLIstPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/LinkedListCycleDetection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/LinkedListReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/CoinDenomiations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/JobSequencing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/KnapSack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/MaxCountOf1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/Nmeetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/PlatformsNeeded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/RemoveDuplicatesinSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/SubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/itemComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/CloneLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/DoublyNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/RotateLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_1/DuplicateIdentification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_1/NextGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nov_1/Repeating_Missing_No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oct_12/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="eb6d6a7c-cc76-48fc-a4b6-fed66b57b998" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TJothiprakash/Striver_Sheet.git",
+    "accountId": "54a67cde-b631-4d37-bfc4-62773b4b275b"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/nov_05/MergeSubIntervals.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -71,45 +41,45 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CloneLinkedList (1).executor": "Run",
-    "Application.DuplicateIdentification.executor": "Run",
-    "Application.InversionOfArray.executor": "Run",
-    "Application.KnapSack (1).executor": "Run",
-    "Application.KnapSack.executor": "Run",
-    "Application.LinkedListReversal.executor": "Run",
-    "Application.LongestConsequetiveSequence.executor": "Run",
-    "Application.LongestSubStringWithoutRepeatingChar.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main (2).executor": "Run",
-    "Application.Main (3).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main01.executor": "Run",
-    "Application.MaxCountOf1.executor": "Run",
-    "Application.MergeSort.executor": "Run",
-    "Application.MergeSubIntervals.executor": "Run",
-    "Application.NextGreater.executor": "Debug",
-    "Application.Nmeetings.executor": "Run",
-    "Application.PlatformsNeeded.executor": "Run",
-    "Application.RemoveDuplicatesinSortedArray.executor": "Run",
-    "Application.Repeating_Missing_No.executor": "Run",
-    "Application.ReversePairs.executor": "Run",
-    "Application.RotateLinkedList.executor": "Run",
-    "Application.TUF.executor": "Debug",
-    "Application.XorOfSubArrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CloneLinkedList (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateIdentification.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InversionOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KnapSack (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.KnapSack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListReversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestConsequetiveSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubStringWithoutRepeatingChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxCountOf1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSubIntervals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextGreater.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Nmeetings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlatformsNeeded.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesinSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Repeating_Missing_No.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversePairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TUF.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.XorOfSubArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="nov_06" />
