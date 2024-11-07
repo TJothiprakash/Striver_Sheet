@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb6d6a7c-cc76-48fc-a4b6-fed66b57b998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA_Practice_StriverSheet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/InversionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/LongestConsequetiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/LongestSubStringWithoutRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/MergeSubIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/InterSectionPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/LinkedLIstPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/LinkedListCycleDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_05/linked_list/LinkedListReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/CoinDenomiations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/JobSequencing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/MaxCountOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/Nmeetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/PlatformsNeeded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/RemoveDuplicatesinSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/itemComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/CloneLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/DoublyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_06/linked_list/RotateLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_1/DuplicateIdentification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_1/NextGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nov_1/Repeating_Missing_No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oct_12/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/nov_05/MergeSubIntervals.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nJlmC1QDoSXLiJf4UIFhgtLUmz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CloneLinkedList (1).executor": "Run",
+    "Application.DuplicateIdentification.executor": "Run",
+    "Application.InversionOfArray.executor": "Run",
+    "Application.KnapSack (1).executor": "Run",
+    "Application.KnapSack.executor": "Run",
+    "Application.LinkedListReversal.executor": "Run",
+    "Application.LongestConsequetiveSequence.executor": "Run",
+    "Application.LongestSubStringWithoutRepeatingChar.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main01.executor": "Run",
+    "Application.MaxCountOf1.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeSubIntervals.executor": "Run",
+    "Application.NextGreater.executor": "Debug",
+    "Application.Nmeetings.executor": "Run",
+    "Application.PlatformsNeeded.executor": "Run",
+    "Application.RemoveDuplicatesinSortedArray.executor": "Run",
+    "Application.Repeating_Missing_No.executor": "Run",
+    "Application.ReversePairs.executor": "Run",
+    "Application.RotateLinkedList.executor": "Run",
+    "Application.TUF.executor": "Debug",
+    "Application.XorOfSubArrays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nov_06" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TUF">
+    <configuration name="KnapSack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.KnapSack" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KnapSack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.KnapSack" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.Main" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.Main01" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.Main01" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformsNeeded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.PlatformsNeeded" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nov_06.TUF" />
+      <module name="DSA_Practice_StriverSheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nov_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TUF" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.KnapSack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb6d6a7c-cc76-48fc-a4b6-fed66b57b998" name="Changes" comment="" />
+      <created>1728699218535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728699218535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nov_1/NextGreater.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nov_1/NextGreater.java</url>
+          <line>14</line>
+          <properties class="nov_1.Solution" method="nextPermutation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nov_1/NextGreater.java</url>
+          <line>48</line>
+          <properties class="nov_1.Solution" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nov_1/NextGreater.java</url>
+          <line>43</line>
+          <properties class="nov_1.Solution" method="swap">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nov_06/SubsetSum.java</url>
+          <line>4</line>
+          <properties class="nov_06.TUF" method="subsetSumsHelper">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
